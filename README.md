@@ -9,3 +9,4 @@ The model utilizes **transfer learning** via a fine-tuned **MobileNetV3** Convol
 * **Base Model:** MobileNetV3 (Small)
 * **Frontend UI:** Streamlit
 * **Data Processing:** NumPy & Pillow (PIL)
+
