@@ -1,4 +1,4 @@
-# Dog vs Wolf AI Classifier - Group CO6
+ # Dog vs Wolf AI Classifier - Group CO6
 
 This repository contains a deep learning computer vision web application designed to classify images of dogs and wolves. 
 
