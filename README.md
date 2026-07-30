@@ -11,6 +11,11 @@ Upload any image of a dog or a wolf, and the model returns the predicted class a
 
 ##
 
+## Dataset
+Dogs vs Wolves Dataset — Kaggle 
+**Dataset Link :** [Dogs vs Wolves Dataset](https://www.kaggle.com/datasets/harishvutukuri/dogs-vs-wolves)
+
+
 ---
 
 ## Tech Stack
