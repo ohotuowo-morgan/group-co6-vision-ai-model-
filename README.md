@@ -29,6 +29,8 @@ Dogs vs Wolves Dataset — Kaggle
 *  **Ohotuowo Morgan Agrinya	-	@ohotuowo-morgan**
 *  **Usanga Ofonmbuk Mfon	-	@ofon4real1**
 *  **Ekong Ime Ime	-	@imeekong**
+*  **Idara-Abasi Ekong Ufot -@idara247**
+
 
 ---
 
